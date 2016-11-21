@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.9.4 (2016/11/21)
+
+ - Handle Auto Update error.
+
 ## 0.9.3 (2016/11/20)
 
  - Auto-Login loading transitions are a lot smoother now.
