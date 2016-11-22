@@ -6,6 +6,12 @@
 
 ## Changelog
 
+## 0.9.5 (2016/11/22)
+
+ - Added Tutorial for new users.
+ - Handle better storage save.
+ - Handle better storage clearing.
+
 ## 0.9.4 (2016/11/21)
 
  - Handle Auto Update error.
