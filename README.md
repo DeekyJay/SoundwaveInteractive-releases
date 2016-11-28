@@ -6,6 +6,13 @@
 
 ## Changelog
 
+## 0.9.6 (2016/11/28)
+ - Added option to minimize to tray.
+ - Expanded the drag zone for the window.
+ - Linux/Mac builds.
+ - Show active sounds in selected profile.
+ - Better error handling.
+ 
 ## 0.9.5 (2016/11/22)
 
  - Added Tutorial for new users.
