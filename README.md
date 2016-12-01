@@ -6,6 +6,12 @@
 
 ## Changelog
 
+## 0.9.7 (2016/12/01)
+- Added ability to kill all playing sounds.
+- Added reconnect to ping timeout.
+- Forced a parse on cooldown so it's always a number.
+- Resized Icons.
+
 ## 0.9.6 (2016/11/28)
  - Added option to minimize to tray.
  - Expanded the drag zone for the window.
