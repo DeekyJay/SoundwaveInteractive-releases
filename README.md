@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.9.8 (2016/12/01)
+- Fixed issue with audio playback.
+- Fixed issue with global volume.
+
 ## 0.9.7 (2016/12/01)
 - Added ability to kill all playing sounds.
 - Added reconnect to ping timeout.
