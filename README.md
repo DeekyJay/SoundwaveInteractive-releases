@@ -6,6 +6,13 @@
 
 ## Changelog
 
+## 0.9.9 (2016/12/11)
+ - Tweaked wording in tutorial.
+ - Allow duplicate sounds to be added to the sound library.
+ - Tweaked OAuth Login Window to be more user friendly.
+ - Update Electron to 1.4.12.
+ - Fixed issue with default audio output device not loading on start of the application.
+ 
 ## 0.9.8 (2016/12/01)
 - Fixed issue with audio playback.
 - Fixed issue with global volume.
