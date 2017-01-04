@@ -6,6 +6,11 @@
 
 ## Changelog
 
+## 0.9.10 (2017/01/04)
+ - Hid 'Minimize to System Tray' until Electron specific bug is resolved.
+ - Resolved Issue with selected Output devices not showing as selected. (Electron specific)
+ - Enhance Refresh Tokens to update into local storage.
+
 ## 0.9.9 (2016/12/11)
  - Tweaked wording in tutorial.
  - Allow duplicate sounds to be added to the sound library.
