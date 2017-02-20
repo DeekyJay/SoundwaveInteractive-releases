@@ -6,6 +6,13 @@
 
 ## Changelog
 
+## 0.9.12 (2017/02/20)
+ - Moved some robot logic to the main process for better performance.
+ - Resolved the issue of needing to relogin after 6 hours.
+ - Resolved the issue with users being unable to login via Microsoft, Twitter, & Discord'.
+ - Resolved the issue with cooldowns not being properly set at the start of the application'.
+ - Added a right click context menu to the board sounds to allow the user to modify & unassign them.
+
 ## 0.9.10 (2017/01/04)
  - Hid 'Minimize to System Tray' until Electron specific bug is resolved.
  - Resolved Issue with selected Output devices not showing as selected. (Electron specific)
