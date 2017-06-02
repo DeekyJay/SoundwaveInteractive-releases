@@ -6,6 +6,17 @@
 
 ## Changelog
 
+## 0.9.15 (2017/05/02)
+- Deprecated all cases of Interactive 1.0.
+- Functionality added to convert Interactive 1.0 board to 2.0 board.
+- Added Extra Error Handling.
+- Removed background grid behind buttons, as they are much smaller with Interactive 2.0.
+- Fixed bug where the user is unable to unassign a sound from a button.
+- Unassigned buttons are now hidden from below the stream.
+- Modified the error screen so the user knows the difference between failing to connect due to an error or firewall, or if they are restricted.
+- Brought back task bar option.
+- Added Toastr and log for people who press the button.
+
 ## 0.9.12 (2017/02/20)
  - Moved some robot logic to the main process for better performance.
  - Resolved the issue of needing to relogin after 6 hours.
