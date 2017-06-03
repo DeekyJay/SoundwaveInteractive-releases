@@ -6,8 +6,11 @@
 
 ## Changelog
 
+## 0.9.17 (2017/05/03)
+- Forced Refresh of Authentication on First Login.
+
 ## 0.9.16 (2017/05/02)
-- Tweaked Firewall Blocking Handler
+- Tweaked Firewall Blocking Handler.
 
 ## 0.9.15 (2017/05/02)
 - Deprecated all cases of Interactive 1.0.
