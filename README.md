@@ -6,6 +6,9 @@
 
 ## Changelog
 
+## 0.9.16 (2017/05/02)
+- Tweaked Firewall Blocking Handler
+
 ## 0.9.15 (2017/05/02)
 - Deprecated all cases of Interactive 1.0.
 - Functionality added to convert Interactive 1.0 board to 2.0 board.
