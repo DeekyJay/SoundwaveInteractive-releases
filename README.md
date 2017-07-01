@@ -6,6 +6,9 @@
 
 ## Changelog
 
+## 0.9.18 (2017/06/30)
+- Oauth Tweaks.
+
 ## 0.9.17 (2017/05/03)
 - Forced Refresh of Authentication on First Login.
 
