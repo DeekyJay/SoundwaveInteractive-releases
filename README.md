@@ -6,6 +6,10 @@
 
 ## Changelog
 
+## 0.9.20 (2018/06/22)
+- Styling tweaks.
+- Removed API authentication & analytics.
+
 ## 0.9.19 (2017/07/01)
 - Oauth Tweaks.
 
